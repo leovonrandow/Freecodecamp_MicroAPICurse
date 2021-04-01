@@ -1,6 +1,6 @@
 {
-	"author": "Leonardo Von Randow",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Leonardo Von Randow",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
